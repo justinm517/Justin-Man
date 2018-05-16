@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# A little bit about myself.
 
-You can use the [editor on GitHub](https://github.com/justinm517/Justin-Man/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, welcome to my portfolio. My name is Justin, and I am a video editor and graphics designer. As you can see from the design of this site, I am also a novice at coding at website development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills and Proficiencies.
 
-### Markdown
+The following is a list of applications and services that I am proficient at. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Adobe Premiere Pro & Adobe After Effects
 
-```markdown
-Syntax highlighted code block
+I have had more than 4 years of experience with working with Premiere Pro and After Effects. I have used both applications to edit a wide range of video projects I've worked on in the past, such as Short films, Video Essays, and Montages.
 
-# Header 1
-## Header 2
-### Header 3
+### Adobe Photoshop & Adobe Lightroom
 
-- Bulleted
-- List
+I have always had a keen eye and passion for Graphics Design and Image Manipulation. I am adamant in using serif fonts such as Helvetica or San Francisco. I have used Photoshop for over 5 years, mainly to design Graphics and Posters for different projects. However, occasionally, I may use Photoshop to edit a friend's face, or edit images to post online.
 
-1. Numbered
-2. List
+### Microsoft Office Suite
 
-**Bold** and _Italic_ and `Code` text
+_Microsft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft Publisher_
 
-[Link](url) and ![Image](src)
-```
+Since primary school, I have used the Microsoft Office to complete homework assignments or write essays. I have more than 7 years of experience with these applications.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact me.
 
-### Jekyll Themes
+I see you have scrolled to the end of my portfolio.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justinm517/Justin-Man/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you'd like to contact me or give suggestions, you can easily find me here:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+School Email:     19manj3@webmail.sis.edu.hk
+Personal Email:   justinm517@gmail.com
